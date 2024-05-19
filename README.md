@@ -2,7 +2,7 @@
 ### Olá! Eu sou a Isabella Ferreira 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-ferreira-da-silva-03a775215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5535998203519)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535998203519)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabella.ferreirah?utm_source=qr&igsh=djNubHNtc2Z6Yjlx)
 
 ![Isabella GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabella-Ferreira-S&show_icons=true&theme=radical)
