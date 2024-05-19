@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**Isabella-Ferreira-S/Isabella-Ferreira-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou a Isabella Ferreira 👋
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-ferreira-da-silva-03a775215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5535998203519)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabella.ferreirah?utm_source=qr&igsh=djNubHNtc2Z6Yjlx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Isabella GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabella-Ferreira-S&show_icons=true&theme=radical)
+
+## Tecnologias que uso no meu dia
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
+<br/>
+Sou uma estudante apaixonadoa por tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas no CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER. Neste repositório, você encontrará uma coleção de códigos desenvolvidos durante minhas aulas, abrangendo diversas disciplinas e tópicos de interesse.👩🏼‍💻💕
+
