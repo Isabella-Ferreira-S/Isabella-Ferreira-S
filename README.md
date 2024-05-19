@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabella.ferreirah?utm_source=qr&igsh=djNubHNtc2Z6Yjlx)
 
 ![Isabella GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabella-Ferreira-S&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella-Ferreira-S&hide_progress=true)
 
 ## Tecnologias que uso no meu dia
 <div>
