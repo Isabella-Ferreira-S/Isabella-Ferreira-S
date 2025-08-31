@@ -7,8 +7,6 @@
 
 ![Isabella-Ferreira-S's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella-Ferreira-S&theme=bear&show_icons=true&hide_border=true&layout=compact)
 
-![Isabella-Ferreira-S's Stats](https://github-readme-stats.vercel.app/api?username=Isabella-Ferreira-S&theme=bear&show_icons=true&hide_border=true&count_private=true)
-
 
 ## Tecnologias que uso no meu dia
 <div>
